@@ -1,4 +1,11 @@
-# Feather
+<h1 align="center">Welcome to Feather 👋</h1>
+<p>
+</p>
 
+> Weather forecasting app that allows users to see the conditions, temperature, and other related metrics of the device's current location, as well as any other cities.
 
-TBD
+## Install
+
+```sh
+1.cd at the project directory 2.Run flutter build apk
+```
