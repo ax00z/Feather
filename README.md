@@ -1,24 +1,22 @@
-<h1 align="center">Welcome to Feather 👋</h1>
-<p>
-</p>
+# FeatherWeather
 
-> Feather (flutter+weather) is a flutter based weather forecasting app that allows users to see the conditions, temperature, and other related metrics of the device's current location, as well as any other cities.
+FeatherWeather is a modern and intuitive Flutter application that provides users with weather information based on their location. The app is designed with a clean and simple interface to help users quickly access the data they need.
 
-## Build it yourself
+## Features
 
-```sh
+- Displays weather information based on the user's location
+- Utilizes the Flutter framework for building a fast and responsive user interface
+- Supports both Android and iOS platforms
 
-1. cd at the project directory 
-2. Run flutter build apk
-3. Install the apk file
+## Getting Started
 
-```
-## Download prebuilt apk
+1. Clone the repository and navigate to the project directory.
+2. Ensure that you have Flutter and Dart SDKs installed on your system. If not, follow the official Flutter [installation guide](https://flutter.dev/docs/get-started/install).
+3. Run `flutter pub get` to install the required dependencies.
+4. Replace the placeholders with your actual API keys and other configurations as needed.
+5. Run the app on an emulator or physical device:
+   ````
+   flutter run
+   ```
 
-```sh
-
-1. Go to the Releases page
-2. Find the apk image that matches your device's architecture (usually arm64)
-3. Download and install the apk file
-
-```
+You can now access FeatherWeather on the emulator or device and start getting weather information based on your location.
