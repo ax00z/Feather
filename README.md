@@ -1,6 +1,6 @@
-# FeatherWeather
+# Feather
 
-FeatherWeather is a modern and intuitive Flutter application that provides users with weather information based on their location. The app is designed with a clean and simple interface to help users quickly access the data they need.
+Feather is a modern and intuitive Flutter application that provides users with weather information based on their location. The app is designed with a clean and simple interface to help users quickly access the data they need.
 
 ## Features
 
@@ -19,4 +19,4 @@ FeatherWeather is a modern and intuitive Flutter application that provides users
    flutter run
    ```
 
-You can now access FeatherWeather on the emulator or device and start getting weather information based on your location.
+You can now access Feather on the emulator or device and start getting weather information based on your location.
